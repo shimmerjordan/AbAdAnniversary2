@@ -2,7 +2,7 @@
 
 This simple website is used to mark our second anniversary.
 
-Preview results can be seen at: http://cloud.shimmerjordan.site](http://cloud.shimmerjordan.site:8080/anniversary)
+Preview results can be seen at: [AbAdAnniversary2.bitbucket.io](AbAdAnniversary2.bitbucket.io)
 
 技术栈：
 
