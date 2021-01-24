@@ -19,7 +19,7 @@ Preview results can be seen at: [AbAdAnniversary2.bitbucket.io](AbAdAnniversary2
 ### 将本仓库克隆到本地
 
 ```shell
-git clone https://github.com/shimmerjordan/anniversary
+git clone git@github.com:shimmerjordan/AbAdAnniversary2.git
 ```
 
 ### 同步依赖
